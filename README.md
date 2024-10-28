@@ -17,13 +17,13 @@
 <br>
 
 1. **What are the controls to your game? How do we play?**
-
-
+Use arrow keys to activate the appropriate areas when in alignment.
+Complete the song without the health bar completely depleting.
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
-
+The shift key is needed in combination with usual arrow keys for certain key parts of the game.
 
 
 <br>
