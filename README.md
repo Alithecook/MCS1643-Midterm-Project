@@ -12,7 +12,7 @@
 # Required ReadMe Info for ALL MCS1243 Projects
 * **Project**   - Friday night funkin
 * **Your Name** - Alessandra
-* **Date**      - 
+* **Date**      - Oct 28, 2024
 
 <br>
 
