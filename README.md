@@ -10,8 +10,8 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
+* **Project**   - Friday night funkin
+* **Your Name** - Alessandra
 * **Date**      - 
 
 <br>
