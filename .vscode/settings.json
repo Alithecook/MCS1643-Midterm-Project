@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "were seeing stuff.sln"
+    "dotnet.defaultSolution": "were-seeing-stuff.sln"
 }
